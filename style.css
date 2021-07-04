@@ -11,7 +11,7 @@ h1{
 .oranges{
     color: orange;
 }
-section{
+.flaxable-container{
     display: flex;
    margin-bottom: 100px;
     
